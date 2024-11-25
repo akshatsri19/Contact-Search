@@ -13,6 +13,8 @@ const Search = ({ onSearch }) => {
     zip: "",
   });
 
+  const [selectedContact, setSelectedContact] = useState(null); // State for selected contact
+
   const handleInputChange = (e) => {
     const { name, value } = e.target;
     setCriteria({ ...criteria, [name]: value });
@@ -20,7 +22,8 @@ const Search = ({ onSearch }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    onSearch(criteria);
+    setSelectedContact(null); // Reset the selected contact to false (or null)
+    onSearch(criteria); // Perform the search with the criteria
   };
 
   // JSON data containing only state property
