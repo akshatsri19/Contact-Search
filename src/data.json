@@ -1,36 +1,112 @@
 [
-    {
-      "firstName": "Rajeev",
-      "lastName": "Sharma",
-      "dob": "1986-02-12",
-      "email": "rajeevsharma@gmail.com",
-      "phone": "2582528582",
-      "address": "1001 Noble St Ste 1",
-      "city": "Fairbanks",
-      "state": "AK",
-      "zip": "99701"
-    },
-    {
-      "firstName": "Eesha",
-      "lastName": "Sharma",
-      "dob": "1995-07-04",
-      "email": "eeshasharma@gmail.com",
-      "phone": "1234567890",
-      "address": "4821 Ridge Top Cir",
-      "city": "Anchorage",
-      "state": "AK",
-      "zip": "99508"
-    },
-    {
-        "firstName": "Eesha",
-        "lastName": "Tiwari",
-        "dob": "1995-07-04",
-        "email": "eeshasharma@gmail.com",
-        "phone": "1234567890",
-        "address": "4821 Ridge Top Cir",
-        "city": "Anchorage",
-        "state": "AK",
-        "zip": "99508"
-      }
-  ]
-  
+  {
+    "firstName": "Rajeev",
+    "lastName": "Sharma",
+    "dob": "1986-02-12",
+    "email": "rajeevsharma@gmail.com",
+    "phone": "2582528582",
+    "address": "1001 Noble St Ste 1",
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "99701"
+  },
+  {
+    "firstName": "Eesha",
+    "lastName": "Sharma",
+    "dob": "1995-07-04",
+    "email": "eeshasharma@gmail.com",
+    "phone": "1234567890",
+    "address": "4821 Ridge Top Cir",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99508"
+  },
+  {
+    "firstName": "Eesha",
+    "lastName": "Doe",
+    "dob": "1990-03-15",
+    "email": "eeshadoe@example.com",
+    "phone": "5551234567",
+    "address": "789 Elm St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90001"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "dob": "1987-09-10",
+    "email": "janesmith@example.com",
+    "phone": "5559876543",
+    "address": "456 Maple Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98101"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "dob": "1992-11-25",
+    "email": "alicejohnson@example.com",
+    "phone": "5556543210",
+    "address": "123 Oak Dr",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Brown",
+    "dob": "1980-05-20",
+    "email": "robertbrown@example.com",
+    "phone": "5551112233",
+    "address": "987 Cedar Ln",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77001"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Taylor",
+    "dob": "1995-12-14",
+    "email": "michaeltaylor@example.com",
+    "phone": "5553334455",
+    "address": "321 Birch Rd",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33101"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "dob": "1993-07-08",
+    "email": "emilydavis@example.com",
+    "phone": "5557778899",
+    "address": "654 Pine St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80201"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Wilson",
+    "dob": "1985-03-22",
+    "email": "williamwilson@example.com",
+    "phone": "5556667788",
+    "address": "123 Poplar Blvd",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02101"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Martinez",
+    "dob": "1998-10-02",
+    "email": "oliviamartinez@example.com",
+    "phone": "5554445566",
+    "address": "789 Spruce Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94101"
+  }
+]

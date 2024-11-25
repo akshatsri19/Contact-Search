@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Search from "./Search";
+import  Search  from "./Search";
 import ResultsTable from "./ResultsTable";
 import data from "./data.json"; // JSON data file
 
@@ -17,7 +17,7 @@ const App = () => {
   };
 
   return (
-    <div className="max-w-6xl mx-auto p-6">
+    <div className="max-w-7xl mx-auto p-6">
       <h1 className="text-2xl font-bold mb-4">Choose a Contact</h1>
       <Search onSearch={handleSearch} />
       <ResultsTable
